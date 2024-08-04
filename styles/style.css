@@ -540,7 +540,7 @@ body {
 
 @media (width <=640px) {
   .container::before {
-    background-image: url("../public/bg_mobile.webp");
+    background-image: url("../public/bg.webp");
     margin: -2px;
     filter: blur(2px);
     background-color: rgba(0, 0, 0, 0.5);
